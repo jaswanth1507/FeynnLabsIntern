@@ -1,1 +1,1 @@
-# FeynnLabsIntern
+# McDonald's Market Segmentation
